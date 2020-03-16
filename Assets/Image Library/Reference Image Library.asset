@@ -14,4 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_GuidLow: 5553818669602129948
   m_GuidHigh: 17339138854570743728
-  m_Images: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5359012343834104299
+      m_GuidHigh: 7687308468119209632
+    m_SerializedTextureGuid:
+      m_GuidLow: 2626406385905104516
+      m_GuidHigh: 9395225364361683275
+    m_Size: {x: 0.16, y: 0.19192904}
+    m_SpecifySize: 1
+    m_Name: yoda
+    m_Texture: {fileID: 0}
